@@ -1,0 +1,1 @@
+Redo interact annotations using, e.g.,  widgets.IntSlider(min=1,max=5,step=.1,value=3.2). Current approach not working on all systems.
